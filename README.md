@@ -160,10 +160,10 @@ banking-application/
 │   └── docker-compose.monitoring.yml
 │
 ├── docs/                      # Documentation
-│   ├── WEEK1_SUMMARY.md
-│   ├── WEEK2_SUMMARY.md
-│   ├── WEEK3_SUMMARY.md
-│   ├── WEEK4_SUMMARY.md
+│   ├── Metrics Report.md
+│   ├── SECURITY GUIDE.md
+│   ├── ARCHITECTURE GUIDE.md
+│   ├── FINAL WEEK_SUMMARY.md
 │   ├── DEVOPS_METRICS_REPORT.md
 │   ├── SLO_DOCUMENT.md
 │   └── screenshots/
@@ -187,7 +187,7 @@ banking-application/
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/DopeGrammerZA/Banking-System-Front-End.git
+git clone https://github.com/Sekani-27/Banking-App-DevOps.git
 cd banking-application
 ```
 
@@ -405,7 +405,7 @@ This project is part of an educational program and is intended for portfolio dem
 
 For questions or collaboration opportunities:
 
-- **GitHub**: [@DopeGrammerZA](https://github.com/DopeGrammerZA)
+- **GitHub**: [@Sekani-27](https://github.com/Sekani-27/Banking-App-DevOps)
 - **Project Repository**: https://github.com/Sekani-27/Banking-App-DevOps
 
 ---
