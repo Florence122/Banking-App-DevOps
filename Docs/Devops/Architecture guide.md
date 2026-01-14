@@ -1106,8 +1106,8 @@ Horizontal Scaling (Future)
 | Monitoring | Grafana | Latest | Visualization | Production |
 | Monitoring | Node Exporter | Latest | System metrics | Production |
 | Monitoring | cAdvisor | Latest | Container metrics | Production |
-| CI/CD | GitHub Actions | - | Automation | Planned |
-| Orchestration | Kubernetes | 1.28+ | Production deploy | Planned |
+| CI/CD | GitHub Actions | - | Automation | Production |
+| Orchestration | Kubernetes | 1.28+ | Production deploy | Production |
 
 ### 11.2 Technology Dependencies
 
